@@ -15,15 +15,15 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "2057503764"
+      "value": "1742722235"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "10171254"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "1090b5b41d141da66f22126a8bbe6ed7"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
@@ -43,11 +43,11 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>Join Channel Dibawah Ini Untuk Mendapatkan File Dari Kami\n\nMohon Untuk Join Channel</b>"
+      "value": "𝙃𝙖𝙡𝙡𝙤 𝙎𝙖𝙮𝙖𝙣𝙜 {first}\n\n<b>𝙆𝙡𝙞𝙠 𝙅𝙤𝙞𝙣 𝙏𝙚𝙧𝙡𝙚𝙗𝙞𝙝 𝘿𝙖𝙝𝙪𝙡𝙪, 𝙎𝙪𝙥𝙖𝙮𝙖 𝙆𝙖𝙢𝙪 𝙈𝙚𝙣𝙙𝙖𝙥𝙖𝙩𝙠𝙖𝙣 𝙑𝙞𝙙𝙚𝙤 𝘼𝙩𝙖𝙪 𝙁𝙞𝙡𝙚𝙣𝙮𝙖\n\n𝙅𝙊𝙄𝙉 𝘿𝙐𝙇𝙐 𝙔𝘼 𝙎𝘼𝙔𝘼𝙉𝙂𝙆𝙐</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1742722235",
       "required": false
     }
   },
