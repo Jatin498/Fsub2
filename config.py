@@ -18,7 +18,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001860238057"))
 OWNER_ID = int(os.environ.get("OWNER_ID", "5493260414"))
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://dlxsmith:8876790388@cluster0.jfy5pyy.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "postgres://utrengvc:9dzgQRdKINRK5Iq5LOZFVaOfLEGNViqW@trumpet.db.elephantsql.com/utrengvc")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "-1001806966447"))
